@@ -1,0 +1,5 @@
+[http]
+	sslBackend = openssl
+	sslCAInfo = C:/Program Files (x86)/Git/mingw32/ssl/certs/ca-bundle.crt
+[credential]
+	helper = manager
